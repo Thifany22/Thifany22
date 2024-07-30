@@ -3,7 +3,7 @@
 - Meu nome é Thifany Bulgarelli
 - Estou estudando na plataforma [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para organizaçaõ e compartilhamento dos meus projetos desenvolvidos
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
 - ### Você pode entrar em contato comigo 📫
 
